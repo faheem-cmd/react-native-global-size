@@ -1,0 +1,32 @@
+{
+  "name": "react-native-global-size",
+  "version": "1.0.0",
+  "description": "react-native-global-size is a small library that provides  simple methods so that React Native developers can code their UI elements fully responsive. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faheem-cmd/react-native-global-size.git"
+  },
+  "keywords": [
+    "react-native",
+    "responsive-ui",
+    "responsive-view",
+    "responsive-screen",
+    "responsive"
+  ],
+  "author": "Muhammed Faheem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faheem-cmd/react-native-global-size/issues"
+  },
+  "homepage": "https://github.com/faheem-cmd/react-native-global-size#readme",
+  "peerDependencies": {
+    "react-native": ">=0.35"
+  },
+  "dependencies": {
+    "react-native-responsive-fontsize": "^0.5.1"
+  }
+}
