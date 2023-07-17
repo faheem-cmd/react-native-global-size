@@ -1,6 +1,6 @@
 # react-native-global-size
  react-native-global-size is a small library that provides  simple methods so that React Native developers can code their UI elements fully 
- responsive.
+ responsive .
 
  # Installation
  https://www.npmjs.com/package/react-native-global-size
